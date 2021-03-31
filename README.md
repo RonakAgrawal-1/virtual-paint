@@ -1,1 +1,2 @@
-# air_cancas
+# air_canvas
+This project is build using opencv and python.
